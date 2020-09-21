@@ -10,7 +10,7 @@
         <relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;
     </parent>-->
     <groupId>org.example</groupId>
-    <artifactId>lizi</artifactId>
+    <artifactId>web</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -62,7 +62,7 @@
 
     </dependencies>
 
-
+<!--
     <build>
         <plugins>
             <plugin>
@@ -70,5 +70,5 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 </project>
